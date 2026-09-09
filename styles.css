@@ -45,6 +45,14 @@ h1 {
   color: #2b5f8a;
 }
 
+section {
+  margin-top: 3rem;
+}
+
+h2 {
+  color: #2b5f8a;
+}
+
 p {
   line-height: 1.6;
 }
